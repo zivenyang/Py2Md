@@ -64,7 +64,7 @@
 |[new_layers](#new_layers)|{'PbN_fc1': {'activation': 'relu', 'kernel_initializer': 'he_normal', 'num_units': 1024}, 'PbN_fc2': {'activation': 'sigmoid', 'kernel_initializer': 'he_normal', 'num_units': 1}}|
 |freeze_layers|18|
 |Model_Checkpoint_save_path||
-|train_dataset_range|['PbN_train_images_1.npy', 'PbN_train_images_3.npy']|
+|train_dataset_range|['PbN_train_images_1.npy', 'PbN_train_images_3.npy']   [aaaaaaaaaaaaaa]|
 |batch_size|32|
 |initial_lr|0.0005|
 |epochs|50|
