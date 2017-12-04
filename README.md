@@ -43,7 +43,7 @@ if __name__ == '__main__':
 |int_test|1|
 
 ## 环境：
-Python2.X
+Python2.X   
 *暂不支持Python3*
 
 ## 使用方法：
