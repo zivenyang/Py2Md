@@ -43,8 +43,8 @@ if __name__ == '__main__':
 |int_test|1|
 
 ## 环境：
-Python2.X   
-*暂不支持Python3*
+* Python2.X    
+* *暂不支持Python3*
 
 ## 使用方法：
 * 将`py2md`文件夹放入自己的工程文件夹中
