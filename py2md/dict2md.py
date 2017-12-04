@@ -111,7 +111,7 @@ class Dict2table:
             pass
         else:
             poor_set = list(set(keys) - set(new_keys))
-            new_keys.extend(poor_set)
+            new_keys.extend(self.keys_sort(poor_set))
         return new_keys
 
     def dict2table(self):
