@@ -1,7 +1,7 @@
 # Py2Md
 > 将python字典转换为Markdown表格
 ## 示例：
-代码示例 *(见demi.py)*：
+代码示例 *(见demo.py)*：
 ```python
 from py2md import dict2md
 
